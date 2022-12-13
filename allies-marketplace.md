@@ -199,63 +199,6 @@ The development of this marketplace is complex as it is a new concept. First the
 | 3. | To unlock the content to the user | This function is to check if the connected wallet has any NFT of collection to unlock the content to that account.|  
   
 
-### Milestone 2 — Enhanced Frontend and User Adoption
-  
-
-  
-
-  
-
--  **Estimated Duration:** 4 weeks
-
-  
-
-  
-
--  **FTE:** 2
-
-  
-
-  
-
--  **Costs:** 4,000 USD
-
-| Number | Deliverable | Specification |
-| -----: | ----------- | ------------- |
-| 0a. | License | MIT|
-| 0b. | Documentation | Provide mockups and/or wireframes (e.g. Figma)
-
-And documents on how to connect and buy and unlock the content of Allie’s (other content creator) |
 
 
-### Future Plans:
 
--   The marketplace offers the owner Roketo payment services
-    
-
-  
-
--   The marketplace offers fundamental minting on Mintbase
-    
-
-  
-
--   For a lot of the front end and restricted content, we could even be able to collaborate with Gorilla Shops.
-    
-
-  
-
--   The marketplace offers organisational structure through Astro DAO (investment through tokens + Ref Finance).
-    
-
-  
-
-Thus, all the necessary instruments are already in place, but need to be linked together. If we can accomplish that, we will attract more people and, in the long run, establish this model as a platform.
-
-### Additional Information:
-
-**How did you hear about the Grants Program?:**
-
-  
-
-From Twitter and being active in the NEAR Ecosystem.
